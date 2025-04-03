@@ -28,13 +28,23 @@
 
 # 🚧 Projects
 <p>🤙 Please visit my portfolio to learn more about me and my projects </br>
-<a href="#">Portfolio</a>
+<a href="#">[WIP]Portfolio</a>
 </p>
+<p>Alternatively, you can see my public repos on GitHub </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=InterMaus1154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=InterMaus1154&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=InterMaus1154&theme=dark&hide_border=false)<br/> -->
+
+# ✈️ Hobbies
+
+<ul>
+    <li>🕹️ Flight Simulator</li>
+    <li>🗼VATSIM Tower Controller</li>
+</ul>
+
+<img src="wizz.jpg"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=InterMaus1154&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
