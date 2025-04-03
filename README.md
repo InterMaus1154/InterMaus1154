@@ -4,14 +4,15 @@
 </div>
 
 # 💫 About Me:
-<div style="font-size: 1.25rem">
+<div style="font-size: 1.5rem">
 <p>🛖I am a Hungarian web developer, living and studying in the United Kingdom. </p>
 <p>⚒️ I mainly work with PHP and Laravel for backend with MySQL databases. When it comes to <i>pain</i> (aka frontend), I work with React and TypeScript.</p>
 </div>
 
 # 🥇 WorldSkills Journey
+<div style="font-size: 1.5rem">
 <p>🇬🇧 I represented the UK on international stage in WorldSkills International Lyon 2024 in Web Technologies category, securing the 9th place with a Medallion of Excellence.</p>
-
+</div>
 # 💻 Tech & Tool Stack:
 <p style="text-align: center">
   <a href="https://skillicons.dev">
