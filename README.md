@@ -22,8 +22,13 @@
 # 💻 Tech & Tool Stack:
 <p style="text-align: center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,js,ts,html,css,py,dart,phpstorm,vscode,git,github,perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,npm,js,ts,html,css,py,dart,phpstorm,vscode,git,github&perline=8" />
   </a>
+</p>
+
+# 🚧 Projects
+<p>🤙 Please visit my portfolio to learn more about me and my projects </br>
+<a href="#">Portfolio</a>
 </p>
 
 # 📊 GitHub Stats:
