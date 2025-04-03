@@ -12,7 +12,7 @@
 # 🥇 WorldSkills Journey
 <div>
 <p>🇬🇧 I represented the UK on international stage in WorldSkills International Lyon 2024 in Web Technologies category, securing the 9th place with a Medallion of Excellence. </br>
-<a href="https://worldskills2024.com/en/home-page/index.html">More about Lyon</a>
+<a href="https://worldskills2024.com/en/home-page/index.html" target="_blank">More about Lyon</a>
 </p>
 </div>
 
