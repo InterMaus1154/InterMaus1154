@@ -28,7 +28,7 @@
 
 # 🚧 Projects
 <p>🤙 Please visit my portfolio to learn more about me and my projects (<i>Work in progress</i>)</br>
-<a href="https://github.com/interMaus1154">Portfolio</a>
+<a href="https://markkiss.netlify.app/">Portfolio</a>
 </p>
 <p>Alternatively, you can see my public repos on GitHub </p>
 
