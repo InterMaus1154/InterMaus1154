@@ -6,7 +6,7 @@
 # 💫 About Me:
 <div>
 <p>🛖I am a Hungarian web developer, living and studying in the United Kingdom. </p>
-<p>⚒️ I mainly work with PHP and Laravel for backend with MySQL databases. When it comes to <i>pain</i> (aka frontend), I work with React and TypeScript.</p>
+<p>⚒️ I mainly work with PHP and Laravel for backend with MySQL databases. On frontend side, I work with React and TypeScript.</p>
 </div>
 
 # 🥇 WorldSkills Journey
@@ -27,8 +27,8 @@
 </p>
 
 # 🚧 Projects
-<p>🤙 Please visit my portfolio to learn more about me and my projects </br>
-<a href="#">[WIP]Portfolio</a>
+<p>🤙 Please visit my portfolio to learn more about me and my projects (<i>Work in progress</i>)</br>
+<a href="https://github.com/interMaus1154">Portfolio</a>
 </p>
 <p>Alternatively, you can see my public repos on GitHub </p>
 
