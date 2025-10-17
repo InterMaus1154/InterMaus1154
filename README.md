@@ -22,7 +22,7 @@
 # 💻 Tech & Tool Stack:
 <p style="text-align: center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,vue,npm,js,ts,html,css,py,phpstorm,vscode,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,react,vue,npm,js,ts,html,css,tailwind,py,phpstorm,vscode,git,github&perline=8" />
   </a>
 </p>
 
