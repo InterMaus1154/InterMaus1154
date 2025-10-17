@@ -6,7 +6,7 @@
 # 💫 About Me:
 <div>
 <p>🛖I am a Hungarian web developer, living and studying in the United Kingdom. </p>
-<p>⚒️ I mainly work with PHP and Laravel for backend with MySQL databases. On frontend side, I work with React and TypeScript.</p>
+<p>⚒️ I mainly like backend development, working with PHP and Laravel, and MySQL or Postgresql databases. On frontend side, I work with React and TypeScript. Started learning Vue recently so I can ditch React.</p>
 </div>
 
 # 🥇 WorldSkills Journey
