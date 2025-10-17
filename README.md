@@ -11,7 +11,7 @@
 
 # 🥇 WorldSkills Journey
 <div>
-<p>🇬🇧 I represented the UK on international stage in WorldSkills International Lyon 2024 in Web Technologies category, securing the 9th place with a Medallion of Excellence. </br>
+<p>🇬🇧 I represented the UK on international stage in WorldSkills International Lyon 2024 in Web Technologies category, securing the <a href="https://cnwl.ac.uk/about/news-events/article/2024/09/23/student-wins-medallion-for-excellence-at-worldskills-lyon-2024" target="_blank">9th place with a Medallion of Excellence</a> . </br>
 <a href="https://worldskills2024.com/en/home-page/index.html" target="_blank">More about Lyon</a>
 </p>
 <p>🏫 I participated in the WorldSkills UK National Finals 2023, where I achieved the first place and the gold medal for web development </br>
