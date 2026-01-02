@@ -1,5 +1,5 @@
 <div style="display: grid; gap: 0.5rem">
-<h1 style="margin: 0">Hello</h1>
+<h1 style="margin: 0">Helló</h1>
 <h2 style="margin: 0">My name is Márk</h2>
 </div>
 
