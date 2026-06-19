@@ -6,6 +6,7 @@
 #  About Me:
 <div>
 <p>I am a Hungarian web developer, living and studying in the United Kingdom. </p>
+<p>Currently taking my placement job at Radweb Ltd. as a junior web developer, contributing to their flagship product called 'InventoryBase'.</p>
 <p>I mainly like backend development, working with PHP and Laravel, and MySQL or Postgresql databases. On frontend side, I work with React and TypeScript. Started learning Vue recently so I can ditch React.</p>
 </div>
 
